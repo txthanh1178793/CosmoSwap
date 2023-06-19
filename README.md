@@ -38,9 +38,3 @@
 
 - Improving the SDK for better routes and prices
 - Introduce multihops for multiple chains using ICS-999
-
-### Team
-
-- [ 👨🏻‍🎓 Arpit Srivastava](https://github.com/fuzious)
-- [ 👨🏻‍💻 Aniket Dixit ](https://github.com/dixitaniket)
-- [ 🌊 Aman Raj](https://amanraj.dev)
